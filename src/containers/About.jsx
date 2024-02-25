@@ -22,22 +22,22 @@ const About = () => {
       </div>
       <div className="grid grid-cols-1 gap-4 lg:grid-cols-2 w-full">
         <div className="w-full flex items-center justify-center px-8">
-          <div className="w-full lg:w-96 p-[2px] rounded-md bg-gradient-to-br from-primary to-secondary relative">
+          <div className="w-full lg:w-81 p-[2px] rounded-md bg-gradient-to-br from-primary to-secondary relative">
             <img src={about} className="w-full rounded-md h-auto object-contain" alt="" />
             <div className="absolute w-full h-full -top-3 -left-2 bg-gradient-to-br from-primary to-secondary rounded-md blur [5px] -z-10"></div>
           </div>
         </div>
         <div className="w-full px-8 flex flex-col gap-4 items-start justify-start">
           <p className="text-texlight text-base tracking-wide text-justify">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, hic? Quibusdam vero nostrum incidunt quisquam expedita dolorum consectetur sint voluptas iure ratione excepturi ea enim distinctio ipsam, eaque, itaque doloribus quos qui hic quo!
+          I am  graduated from NIT Durgapur, where my academic journey provided me with a solid foundation in problem-solving and analytical thinking. Despite my engineering background, my keen interest in technology and design led me to undertake specialized training as a frontend developer at Newton School.
           </p>
 
           <p className="text-texlight text-base tracking-wide text-justify">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, hic? Quibusdam vero nostrum incidunt quisquam expedita dolorum consectetur sint voluptas iure ratione excepturi ea enim distinctio ipsam, eaque, itaque doloribus quos qui hic quo!
+          During my time at Newton School, I delved deep into the intricacies of HTML, CSS, and JavaScript, Reactjs refining my coding skills and gaining practical insights into creating visually appealing and functional web interfaces.
           </p>
 
           <p className="text-texlight text-base tracking-wide text-justify">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, hic? Quibusdam vero nostrum incidunt quisquam expedita dolorum consectetur sint voluptas iure ratione excepturi ea enim distinctio ipsam, eaque, itaque doloribus quos qui hic quo!
+          Combining my engineering acumen with my newfound frontend development skills, I bring a unique blend of analytical thinking and creative problem-solving to the table. I am excited about the prospect of contributing innovative solutions to the dynamic landscape of frontend development.
           </p>
         </div>
       </div>

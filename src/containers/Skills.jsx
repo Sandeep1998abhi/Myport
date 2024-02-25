@@ -25,15 +25,19 @@ const Skills = () => {
         <div className="w-full px-8 flex flex-col gap-4 items-start justify-start">
           <p className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-secondary">My Skills & Work Experience</p>
           <p className="text-texlight text-base tracking-wide text-justify">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, hic? Quibusdam vero nostrum incidunt quisquam expedita dolorum consectetur sint voluptas iure ratione excepturi ea enim distinctio ipsam, eaque, itaque doloribus quos qui hic quo!
+          I possess comprehensive skills in frontend development, including proficiency in HTML, CSS, and JavaScript. Additionally, I've undergone specialized training as a frontend developer at Newton School, where I gained hands-on experience in building dynamic and interactive web applications using React.js
           </p>
 
           <p className="text-texlight text-base tracking-wide text-justify">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, hic? Quibusdam vero nostrum incidunt quisquam expedita dolorum consectetur sint voluptas iure ratione excepturi ea enim distinctio ipsam, eaque, itaque doloribus quos qui hic quo!
+          Good understanding of Java programming, allowing me to develop robust and scalable Coding. This proficiency in Java equips me with the skills needed to create efficient and effective applications.
           </p>
 
           <p className="text-texlight text-base tracking-wide text-justify">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, hic? Quibusdam vero nostrum incidunt quisquam expedita dolorum consectetur sint voluptas iure ratione excepturi ea enim distinctio ipsam, eaque, itaque doloribus quos qui hic quo!
+          terms of SCADA (Supervisory Control and Data Acquisition), I have a foundational understanding. This means I am familiar with the basic principles and functionalities of SCADA systems, demonstrating an awareness of real-time monitoring and control in industrial processes.
+          </p>
+
+          <p className="text-texlight text-base tracking-wide text-justify">
+          Regarding CATIA (Computer-Aided Three-Dimensional Interactive Application), I have a basic proficiency. This enables me to engage in 3D modeling, simulation, and design activities. While not at an advanced level, my knowledge in CATIA emphasizes precision and efficiency in engineering projects.
           </p>
         </div>
         <div className="w-full flex flex-col gap-4 items-center justify-center px-8">
