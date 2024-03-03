@@ -1,10 +1,10 @@
 import {
   FaDiagramProject,
   FaEnvelope,
-  FaFacebookF,
   FaGithub,
   FaHouse,
   FaLinkedinIn,
+  FaLeetcode,
   FaRenren,
   FaUser,
   FaYoutube,
@@ -23,12 +23,6 @@ import {
 
 export const Socials = [
   {
-    id: `facebook-${Date.now()}`,
-    Icon: FaFacebookF,
-    uril: "",
-    color: "#1877F2",
-  },
-  {
     id: `linkedin-${Date.now()}`,
     Icon: FaLinkedinIn,
     uril: "",
@@ -39,6 +33,12 @@ export const Socials = [
     Icon: FaGithub,
     uril: "",
     color: "#fff",
+  },
+   {
+    id: `facebook-${Date.now()}`,
+    Icon: FaLeetcode,
+    uril: "",
+    color: "#1877F2",
   },
   {
     id: `youtube-${Date.now()}`,
