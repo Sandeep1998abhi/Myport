@@ -4,11 +4,13 @@ import {
   FaGithub,
   FaHouse,
   FaLinkedinIn,
-  FaLeetcode,
   FaRenren,
   FaUser,
-  FaYoutube,
 } from "react-icons/fa6";
+
+import { TbBrandLeetcode } from "react-icons/tb";
+import { SiReplit } from "react-icons/si";
+
 import {
   ChatApp,
   CodePenClone,
@@ -25,27 +27,29 @@ export const Socials = [
   {
     id: `linkedin-${Date.now()}`,
     Icon: FaLinkedinIn,
-    uril: "",
+    url: "https://www.linkedin.com/in/sandeep-kumar-203875193",
     color: "#0072b1",
+
   },
   {
     id: `github-${Date.now()}`,
     Icon: FaGithub,
-    uril: "",
+    url: "https://github.com/Sandeep1998abhi",
     color: "#fff",
   },
-   {
-    id: `facebook-${Date.now()}`,
-    Icon: FaLeetcode,
-    uril: "",
-    color: "#1877F2",
+  {
+    id: `leedcode-${Date.now()}`,
+    Icon: TbBrandLeetcode,
+    url: "https://leetcode.com/Sandy1998/",
+    color: "#0077B5",
   },
   {
-    id: `youtube-${Date.now()}`,
-    Icon: FaYoutube,
-    uril: "",
+    id: `sireplit-${Date.now()}`,
+    Icon: SiReplit,
+    url: "https://replit.com/@SandeepKumar257",
     color: "#ff0000",
   },
+  
 ];
 
 export const Menus = [
