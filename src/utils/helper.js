@@ -107,8 +107,8 @@ export const ProjectsData = [
   {
     id: `d${Date.now()}`,
     name: "Movie Website",
-    imgSrc: "https://img.freepik.com/free-photo/assortment-cinema-elements-red-background-with-copy-space_23-2148457848.jpg?w=826&t=st=1708840547~exp=1708841147~hmac=215c21901abf7f1cd668ecfc9cc41056e6811d11c5ae430b67cd66d7686a929f",
-    gitURL: "https://github.com/Sandeep1998abhi/Movieweb",
+    imgSrc: "https://img.freepik.com/free-vector/movie-night-cartoon-landing-page_107791-6072.jpg?t=st=1708838060~exp=1708841660~hmac=e4b06cf890522c2f1d50026d7da6bf1d4dd8fbcd0c469f4c3c939ee70be0caf8&w=826",
+    gitURL:  "https://github.com/Sandeep1998abhi/Movie.web",
   },
   {
     id: `e${Date.now()}`,
@@ -119,7 +119,7 @@ export const ProjectsData = [
   {
     id: `f${Date.now()}`,
     name: "Animation landing page",
-    imgSrc: "https://img.freepik.com/free-vector/movie-night-cartoon-landing-page_107791-6072.jpg?t=st=1708838060~exp=1708841660~hmac=e4b06cf890522c2f1d50026d7da6bf1d4dd8fbcd0c469f4c3c939ee70be0caf8&w=826",
-    gitURL: "https://github.com/Sandeep1998abhi/Movie.web",
+    imgSrc: "https://img.freepik.com/free-photo/assortment-cinema-elements-red-background-with-copy-space_23-2148457848.jpg?w=826&t=st=1708840547~exp=1708841147~hmac=215c21901abf7f1cd668ecfc9cc41056e6811d11c5ae430b67cd66d7686a929f",
+    gitURL:  "https://github.com/Sandeep1998abhi/Movieweb",
   },
 ];
